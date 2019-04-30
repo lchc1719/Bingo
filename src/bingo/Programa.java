@@ -2,6 +2,11 @@ package bingo;
 
 import java.util.ArrayList;
 
+/* Presentado por
+Mayeleen Rodriguez
+Luis Carlos Hatum Clavijo
+*/
+
 public class Programa {
 
     
